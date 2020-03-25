@@ -1,0 +1,12 @@
+.LINE {
+    border-top: 1px dotted #8c8b8b;
+  }
+
+.Table{
+  width: 100%;
+  background-color: red;
+}
+
+.Table tr td:first-child{
+  text-align: right;
+}

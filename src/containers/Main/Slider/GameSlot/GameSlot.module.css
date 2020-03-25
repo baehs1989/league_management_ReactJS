@@ -1,0 +1,21 @@
+.Main{
+    border: 1px dotted grey;
+}
+.Table{
+
+}
+.Score{
+    background-color: #242424;
+    color:white;
+    width:30%;
+}
+
+.Team{
+    background-color: #80808024;
+    padding: 0.5rem;
+}
+
+.INFO{
+    padding:5px;
+}
+

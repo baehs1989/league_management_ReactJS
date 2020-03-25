@@ -1,0 +1,12 @@
+.Main{
+    padding: 1rem;
+}
+
+
+.Table{
+    max-width: 600px;
+}
+
+.Table th{
+    font-weight: bold;
+}

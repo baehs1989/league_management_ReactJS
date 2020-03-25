@@ -1,0 +1,39 @@
+.Table{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 0.5rem;
+}
+
+.Table > div{
+    width:100%;
+}
+
+.Header {
+    font-weight: bolder;
+}
+
+.Join {
+    border-right: none !important;
+}
+
+.Left {
+    text-align: left;
+}
+
+.Title{
+    font-size: 1.5rem;
+    padding: 0.5rem;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+}
+
+.Circle{
+    display:inline-block;
+    background-color: red;
+    border-radius: 100%;
+    width: 1rem;
+    height: 1rem;
+    font-size: 0.4rem;
+    color: white;
+    font-weight: bolder;
+    margin-right:2px;
+}
