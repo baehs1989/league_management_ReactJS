@@ -1,4 +1,4 @@
-## Sport League Management Web Application
+## Sports League Management Web Application
 
 demo link : <a href="https://league-management-5e38a.web.app/" target="_blank">DEMO</a>
 
