@@ -122,7 +122,7 @@ export default function DashboardWrapperV2(props) {
           <span className={classes.LinkText}>          
             Version 1.0.0
             <br/>
-            © Copyright AB 2019. All rights reserved.
+            © Copyright AB 2020. All rights reserved.
           </span>
         </li>
 
