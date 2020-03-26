@@ -195,9 +195,15 @@ class SchedulePage extends Component {
                     selectedMatch={this.state.selectedMatch}
                 />
 
-                <IconButton color="inherit" className={classes.FixedButton} onClick={this.handleDialogOpen}>
-                    <AddBoxIcon style={{fontSize:'3.5rem'}}/>
-                </IconButton>
+                {
+                    this.props.admin?
+                        <IconButton color="inherit" className={classes.FixedButton} onClick={this.handleDialogOpen}>
+                            <AddBoxIcon style={{fontSize:'3.5rem'}}/>
+                        </IconButton>
+                        :
+                        null
+                }
+
 
             </Container>
         )
